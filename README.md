@@ -1,10 +1,10 @@
 ### Some cool gifs
-![](.attachements/ie.gif)
+![](./giphy.gif)
 ---------
-![](.attachements/cd.gif)
+![](./ie.gif)
 ---------
-![](.attachements/surf.gif)
+![](./cd.gif)
 ---------
-![](.attachements/giphy.gif)
+![](./surf.gif)
 ---------
 
