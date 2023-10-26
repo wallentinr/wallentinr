@@ -1,10 +1,10 @@
 ### Some cool gifs
-![](./giphy.gif)
+![1](./giphy.gif)
 ---------
-![](./ie.gif)
+![2](./ie.gif)
 ---------
-![](./cd.gif)
+![3](./cd.gif)
 ---------
-![](./surf.gif)
+![4](./surf.gif)
 ---------
 
